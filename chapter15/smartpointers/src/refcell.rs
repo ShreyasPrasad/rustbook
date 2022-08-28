@@ -1,5 +1,5 @@
 /*
-    Interior mutability is a design apttern that allows you to mutate data even when there
+    Interior mutability is a design pattern that allows you to mutate data even when there
     are mutable references to the data. To mutate data, the pattern uses unsafe code inside
     a data structure to bend Rust's usual rules.
 
